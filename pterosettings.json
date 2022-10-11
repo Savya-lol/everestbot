@@ -1,0 +1,21 @@
+{
+  "token": "MTAyOTI1MTE2MjQxMjY4NzQwMQ.Gii_Xr.Un3AM3iaoywjqd3zciL4cFKMeeH1gk75C_miCc",
+  "prefix": "*",
+  "panellink": "http://4.240.60.163",
+  "color": "RANDOM",
+  "statusname": "Everest Hosting",
+  "statustype": "PLAYING",
+  "whitelist": ["448856964697554956", "another user id", "etc"],
+  "cputype": 0,
+  "checkpower": 1,
+  "checksend": 1,
+  "sharedapi": null,
+  "sharedfocus": null,
+  "disablelinkscmd": 0,
+  "footername": "",
+  "footerimage": "",
+  "zerodiskmsg": "∞ MB",
+  "zerorammsg": "∞ MB",
+  "disableembedlinks": 0,
+  "beforeidmsg": "#"
+}
